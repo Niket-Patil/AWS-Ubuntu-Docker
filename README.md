@@ -21,7 +21,8 @@ Allow SSH and HTTP/HTTPS in security groups.
 
 6.	Run “sudo apt-get update && sudo apt-get upgrade -y” command to update package manager
 
- ![5](https://github.com/Niket-Patil/AWS-Ubuntu-Docker/assets/86849874/f61e46f9-fbed-44e0-bd63-51accafc1d72)
+ 
+![5](https://github.com/Niket-Patil/AWS-Ubuntu-Docker/assets/86849874/7e944510-fe18-45df-b1a1-d91314231582)
 
 
 # Docker Installation:
