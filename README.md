@@ -109,7 +109,7 @@ The Docker Setup is now complete.
 
 
 The application is now hosted on PORT 8080 internally and available PORT 80 public IP
- # http://3.84.187.195/
+ # http://3.84.187.195
 
 # OUTPUT
   
